@@ -22,5 +22,9 @@ public static void main(String[] args) {
 	//BestCar car=new BestCar(); CE
 	BestCar car=new BestCar("BMW","blue","m5",2020,4,5);
 	car.printDetails();
+	//BestCar car=new BestCar(2,"blue","m5",2020,4,5);//
+	//CE: we cannot swap the variables for the constructor
+	
+	
 }
 }
