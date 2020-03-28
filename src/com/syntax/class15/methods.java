@@ -12,5 +12,12 @@ public class methods {
 			System.out.println(word);
 		}
 	}
+	void isItRaining(boolean isRain) {
+		if(isRain) {
+			System.out.println("It is raing stay home");
+		}else {
+			System.out.println("It is not raining go outside");
+		}
+	}
 	
 }

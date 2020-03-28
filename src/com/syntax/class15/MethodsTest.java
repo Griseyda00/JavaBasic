@@ -6,5 +6,6 @@ public class MethodsTest {
 		obj.sayWelcome();
 		methods obj1=new methods();
 		obj1.sayAnything("Hello", 2);
+	
 	}
 }
