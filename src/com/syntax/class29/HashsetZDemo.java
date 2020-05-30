@@ -1,5 +1,11 @@
 package com.syntax.class29;
 
-public class HashsetZDemo {
+import java.util.HashSet;
 
+public class HashsetZDemo {
+public static void main(String[] args) {
+	HashSet <String> Breakfast=new HashSet<>();
+	
+	
+}
 }
